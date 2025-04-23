@@ -1,0 +1,1 @@
+# Abrir-.exe-sem-Root
